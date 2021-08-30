@@ -1,0 +1,60 @@
+{
+	"instagram": {
+		"username": "",
+		"password": "",
+		"seed": "memes",
+		"credits_in_caption": false,
+		"restart_every": 0
+	},
+	"reddit": {
+		"subreddits": {
+			"/r/IndianDankMemes": 25,
+			"/r/bakchodi": 25,
+			"/r/Chodi": 25,
+			"/r/r/IndianMeyMeys":25 }
+	},
+	"discord": {
+		"enabled": true,
+		"token": "",
+		"prefix": "!",
+		"channels": {
+			"commands": "",
+			"system": ""
+		}
+	},
+	"schedule": {
+		"human_error": {
+			"min": 20,
+			"max": 320
+		},
+		"hourly_timings": [
+			[12, 32, 52],
+			[12, 32, 52],
+			[12, 32, 52],
+			[12, 42],
+			[12, 42],
+			[12, 42],
+			[12, 42],
+			[12, 42],
+			[12, 42],
+			[12, 12],
+			[12, 12],
+			[41,42,43],
+			[],
+			[12, 12],
+			[12, 12],
+			[],
+			[12, 12],
+			[],
+			[],
+			[],
+			[10, 10],
+			[35, 35],
+			[33, 32, 52],
+			[55, 32],
+			[12, 32, 52],
+			[12, 32, 52],
+			[12, 32, 52]
+		]
+	}
+}
